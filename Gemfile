@@ -10,6 +10,7 @@ gem 'jquery-rails', '4.1.1'
 gem 'turbolinks',   '5.0.0'
 gem 'jbuilder',     '2.4.1'
 gem 'haml-rails'
+gem 'bootstrap-sass', '3.3.6'
 gem "erb2haml", :group => :development
 
 group :development, :test do
